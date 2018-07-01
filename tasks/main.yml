@@ -3,4 +3,4 @@
 
 - name: Test 2 Debug
   debug:
-    mgs: "Hello Test2"
+    msg: "Hello Test2"
